@@ -1,11 +1,10 @@
 ## Hi there 👋
 
+Hi 👋 My name is Parvathi Velpula
+=================================
 
-Hi 👋 My name is Parvathi Devi Velpula
-======================================
-
-SDET
-----
+Automation/Manual Test Engineer
+-------------------------------
 
 I have extensive experience working in an Agile environment, developing high-level test scenarios and test cases for an airline project. With hands-on expertise in automation using Playwright, Python proficiency, and tools like VS Code, GitHub, Jira, Trello, and Tricentis Test Management, I have effectively collaborated with cross-functional teams. My strong manual testing skills, paired with substantial automation experience, make me a well-rounded and capable candidate. I am eager to contribute my expertise to opportunities that align with my skills and career aspirations.
 
@@ -37,3 +36,6 @@ I have extensive experience working in an Agile environment, developing high-lev
 <a href="http://www.github.com/Parvathivelpula"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Parvathivelpula&bg_color=1c1917&color=000000&line=0891b2&point=000000&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Parvathivelpula" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parvathivelpula&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+
